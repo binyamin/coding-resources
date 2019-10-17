@@ -24,3 +24,5 @@
 ### Podcasts
   - [Syntax](https://syntax.fm/)
   - [Codepen Radio](https://blog.codepen.io/radio/)
+  - [Developer Tea](https://spec.fm/podcasts/developer-tea)
+  - [JavaScript Jabber](https://devchat.tv/js-jabber/)
