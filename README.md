@@ -8,6 +8,7 @@
   - [Devcord](https://discord.gg/devcord)
   - [Developer Hangout](https://discord.gg/developers)
   - [The Coding Den](https://discord.gg/code)
+  - [The Programmer's Hangout](https://discord.gg/BQN6BYE)
 ### Other
   - [FreeCodeCamp Forums](https://freecodecamp.org/forum)
 ## Writing
