@@ -1,6 +1,8 @@
 # Coding Resources
 *A list of great learning resources for programmers*
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I015NCV)
+
 ## Communities
 ### Discord Servers
   - [Coursetro](https://discord.gg/a27CKAF)
