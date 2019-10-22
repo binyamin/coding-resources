@@ -30,3 +30,5 @@
   - [Codepen Radio](https://blog.codepen.io/radio/)
   - [Developer Tea](https://spec.fm/podcasts/developer-tea)
   - [JavaScript Jabber](https://devchat.tv/js-jabber/)
+### Learning Guides
+  - [P1xt's Full Computer Science Guide](https://github.com/P1xt/p1xt-guides)
