@@ -1,9 +1,7 @@
 # Coding Resources
 *A list of great learning resources for programmers*
 
-<!--[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I015NCV)-->
-
-<a href="https://www.buymeacoffee.com/b3u" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.buymeacoffee.com/b3u" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-black.png" alt="Buy Me A Coffee" height="51px" width="217px"></a>
 
 ## Communities
 ### Discord Servers
