@@ -28,5 +28,13 @@
   - [Codepen Radio](https://blog.codepen.io/radio/)
   - [Developer Tea](https://spec.fm/podcasts/developer-tea)
   - [JavaScript Jabber](https://devchat.tv/js-jabber/)
-### Learning Guides
+## Guides & Courses
+### Courses
+Note: This does not include courses primarily based on YouTube
+  - [JavaScript 30](https://javascript30.com)
+  - [FreeCodeCamp Curriculum](https://freecodecamp.org/learn)
+  - [The Odin Project](https://www.theodinproject.com)
+  - [Khan Academy](https://www.khanacademy.org/computing)
+  - [Codecademy (Freemium)](https://www.codecademy.com)
+### Guides
   - [P1xt's Full Computer Science Guide](https://github.com/P1xt/p1xt-guides)
