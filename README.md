@@ -16,6 +16,8 @@
 ## Writing
 ### Blogs
 ### Newsletters
+### Books
+  - [Elequent JavaScript (e-book)](https://eloquentjavascript.net/)
 ## Audio & Video
 ### Youtube
   - [Design Course (Coursetro)](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
