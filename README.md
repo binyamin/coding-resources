@@ -26,6 +26,8 @@
   - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
   - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
   - [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+  - [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
+  - [CodingTheSmartWay](https://www.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ)
 ### Podcasts
   - [Syntax](https://syntax.fm/)
   - [Codepen Radio](https://blog.codepen.io/radio/)
@@ -39,5 +41,6 @@ Note: This does not include courses primarily based on YouTube
   - [The Odin Project](https://www.theodinproject.com)
   - [Khan Academy](https://www.khanacademy.org/computing)
   - [Codecademy (Freemium)](https://www.codecademy.com)
+  - [Scrimba Catalogue](https://scrimba.com/)
 ### Guides
   - [P1xt's Full Computer Science Guide](https://github.com/P1xt/p1xt-guides)
