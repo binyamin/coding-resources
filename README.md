@@ -30,7 +30,7 @@
   - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
   - [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
   - [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
-  - [CodingTheSmartWay](https://www.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ)
+  - [CodingTheSmartWay](https://www.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ
 ### Podcasts
   - [Syntax](https://syntax.fm/)
   - [Codepen Radio](https://blog.codepen.io/radio/)
