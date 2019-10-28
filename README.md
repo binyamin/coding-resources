@@ -6,7 +6,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/b3u/coding-resources?style=flat-square)
 [![Donate](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-ff813f?logo=buy-me-a-coffee&style=flat-square)](https://www.buymeacoffee.com/b3u)
 
-## Communities
+## :speech_balloon: Communities
 ### Discord Servers
   - [Coursetro](https://discord.gg/a27CKAF)
   - [FED](https://discord.gg/kx7pk6J)
@@ -16,13 +16,13 @@
   - [The Programmer's Hangout](https://discord.gg/BQN6BYE)
 ### Other
   - [FreeCodeCamp Forums](https://freecodecamp.org/forum)
-## Writing
+## :memo: Writing
 ### Blogs
 ### Newsletters
 ### Books
   - [Elequent JavaScript (free)(e-book)](https://eloquentjavascript.net/)
   - [Clean Code by Robert C Martin (Paid)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-## Audio & Video
+## :radio: Audio & Video
 ### Youtube
   - [Design Course (Coursetro)](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
   - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
@@ -35,7 +35,7 @@
   - [Codepen Radio](https://blog.codepen.io/radio/)
   - [Developer Tea](https://spec.fm/podcasts/developer-tea)
   - [JavaScript Jabber](https://devchat.tv/js-jabber/)
-## Guides & Courses
+## :clipboard: Guides & Courses
 ### Courses
 Note: This does not include courses primarily based on YouTube
   - [JavaScript 30](https://javascript30.com)
