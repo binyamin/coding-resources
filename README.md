@@ -1,10 +1,10 @@
 # Coding Resources
 *A list of great learning resources for programmers*
 
-![GitHub contributors](https://img.shields.io/github/contributors/b3u/coding-resources?style=flat-square)
+<!-- ![GitHub contributors](https://img.shields.io/github/contributors/b3u/coding-resources?style=flat-square)
 ![GitHub](https://img.shields.io/github/license/b3u/coding-resources?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b3u/coding-resources?style=flat-square)
-[![Donate](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-ff813f?logo=buy-me-a-coffee&style=flat-square)](https://www.buymeacoffee.com/b3u)
+[![Donate](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-ff813f?logo=buy-me-a-coffee&style=flat-square)](https://www.buymeacoffee.com/b3u) -->
 
 ## :speech_balloon: Communities
 ### Discord Servers
