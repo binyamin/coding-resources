@@ -20,7 +20,7 @@
 ### Blogs
 ### Newsletters
 ### Books
-  - [Elequent JavaScript (e-book)](https://eloquentjavascript.net/)
+  - [Elequent JavaScript (free)(e-book)](https://eloquentjavascript.net/)
   - [Clean Code by Robert C Martin (Paid)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 ## Audio & Video
 ### Youtube
