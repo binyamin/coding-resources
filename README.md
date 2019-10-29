@@ -34,6 +34,9 @@
   - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
   - [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
   - [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
+  - [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+  - [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
+  - [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
 ### Podcasts
   - [Syntax](https://syntax.fm/)
   - [Codepen Radio](https://blog.codepen.io/radio/)
