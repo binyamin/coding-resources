@@ -13,10 +13,9 @@
   - [Devcord](https://discord.gg/devcord)
   - [Developer Hangout](https://discord.gg/developers)
   - [The Coding Den](https://discord.gg/code)
-  - [The Programmer's Hangout](https://discord.gg/BQN6BYE)
-  - [Functional Programming](https://discord.gg/E356PM)
+  - [The Programmer's Hangout](https://discord.gg/programming)
+  - [Functional Programming](https://discord.gg/K6XHBSh)
   - [Python](https://discord.gg/python)
-  - [Programmer's Hangout](https://discord.gg/programming)
 ### Other
   - [FreeCodeCamp Forums](https://freecodecamp.org/forum)
 ## :memo: Writing
