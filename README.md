@@ -16,6 +16,10 @@
   - [The Programmer's Hangout](https://discord.gg/programming)
   - [Functional Programming](https://discord.gg/K6XHBSh)
   - [Python](https://discord.gg/python)
+### Subreddits
+  - [r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
+  - [r/programming](https://www.reddit.com/r/programming/)
+  - [r/webdev](https://www.reddit.com/r/webdev/)
 ### Other
   - [FreeCodeCamp Forums](https://freecodecamp.org/forum)
 ## :memo: Writing
