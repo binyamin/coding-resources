@@ -1,10 +1,10 @@
 # Coding Resources
 *A list of great learning resources for programmers*
 
-<!-- ![GitHub contributors](https://img.shields.io/github/contributors/b3u/coding-resources?style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/b3u/coding-resources?style=flat-square)
 ![GitHub](https://img.shields.io/github/license/b3u/coding-resources?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b3u/coding-resources?style=flat-square)
-[![Donate](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-ff813f?logo=buy-me-a-coffee&style=flat-square)](https://www.buymeacoffee.com/b3u) -->
+[![Donate](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-ff813f?logo=buy-me-a-coffee&style=flat-square)](https://www.buymeacoffee.com/b3u)
 
 ## :speech_balloon: Communities
 ### Discord Servers
@@ -13,8 +13,10 @@
   - [Devcord](https://discord.gg/devcord)
   - [Developer Hangout](https://discord.gg/developers)
   - [The Coding Den](https://discord.gg/code)
-  - [The Programmer's Hangout](https://discord.gg/BQN6BYE)
-### Reddit Subreddits
+  - [The Programmer's Hangout](https://discord.gg/programming)
+  - [Functional Programming](https://discord.gg/K6XHBSh)
+  - [Python](https://discord.gg/python)
+### Subreddits
   - [r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
   - [r/programming](https://www.reddit.com/r/programming/)
   - [r/webdev](https://www.reddit.com/r/webdev/)
@@ -23,6 +25,7 @@
 ## :memo: Writing
 ### Blogs
 ### Newsletters
+  - [Elixir Radar](http://plataformatec.com.br/elixir-radar/)
 ### Books
   - [Elequent JavaScript (free)(e-book)](https://eloquentjavascript.net/)
   - [Clean Code by Robert C Martin (Paid)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
