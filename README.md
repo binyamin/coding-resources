@@ -14,6 +14,10 @@
   - [Developer Hangout](https://discord.gg/developers)
   - [The Coding Den](https://discord.gg/code)
   - [The Programmer's Hangout](https://discord.gg/BQN6BYE)
+### Reddit Subreddits
+  - [r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
+  - [r/programming](https://www.reddit.com/r/programming/)
+  - [r/webdev](https://www.reddit.com/r/webdev/)
 ### Other
   - [FreeCodeCamp Forums](https://freecodecamp.org/forum)
 ## :memo: Writing
