@@ -14,11 +14,15 @@
   - [Developer Hangout](https://discord.gg/developers)
   - [The Coding Den](https://discord.gg/code)
   - [The Programmer's Hangout](https://discord.gg/BQN6BYE)
+  - [Functional Programming](https://discord.gg/E356PM)
+  - [Python](https://discord.gg/python)
+  - [Programmer's Hangout](https://discord.gg/programming)
 ### Other
   - [FreeCodeCamp Forums](https://freecodecamp.org/forum)
 ## :memo: Writing
 ### Blogs
 ### Newsletters
+  - [Elixir Radar](http://plataformatec.com.br/elixir-radar/)
 ### Books
   - [Elequent JavaScript (free)(e-book)](https://eloquentjavascript.net/)
   - [Clean Code by Robert C Martin (Paid)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
