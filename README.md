@@ -55,7 +55,6 @@ Note: This does not include courses primarily based on YouTube
   - [P1xt's Full Computer Science Guide](https://github.com/P1xt/p1xt-guides)
   - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
   - [iOSBridge](https://github.com/mobilebridge/iosbridge)
-  - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
   - [go](https://github.com/datasciencemasters/go)
   - [project-based-learning](https://github.com/tuvtran/project-based-learning)
   - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
