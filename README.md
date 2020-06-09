@@ -27,6 +27,9 @@
 ### Blogs
 ### Newsletters
   - [Elixir Radar](http://plataformatec.com.br/elixir-radar/)
+  - [Frontend Focus](https://frontendfoc.us)
+  - [CSS-Tricks Newsletter](https://css-tricks.com/newsletters/)
+  - [Jamstack Newsletter](https://jamstack.email/)
 ### Books
   - [Elequent JavaScript (free)(e-book)](https://eloquentjavascript.net/)
   - [Clean Code by Robert C Martin (Paid)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
