@@ -16,6 +16,7 @@
   - [The Programmer's Hangout](https://discord.gg/programming)
   - [Functional Programming](https://discord.gg/K6XHBSh)
   - [Python](https://discord.gg/python)
+  - [FreeCodeCamp](https://discord.gg/KVUmVXA)
 ### Subreddits
   - [r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
   - [r/programming](https://www.reddit.com/r/programming/)
